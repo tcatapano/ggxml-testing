@@ -1,0 +1,573 @@
+/Users/terry/working/plazi/gg_xml_20pct_sample//0574E9B8F169985EFAD79CA27B5088C3.xml:107: namespace error : Namespace prefix xlink for title on abbrev is not defined
+HCI" pageId="0" pageNumber="13" xlink:title="internal transcribed spacer region"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:447: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="66" xlink:title="Distance between the two orbits"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:450: namespace error : Namespace prefix xlink for title on abbrev is not defined
+rev pageId="9" pageNumber="66" xlink:title="Distance between the external nares"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:453: namespace error : Namespace prefix xlink for title on abbrev is not defined
+abbrev pageId="9" pageNumber="66" xlink:title="Distance between nostril and eye"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:456: namespace error : Namespace prefix xlink for title on abbrev is not defined
+brev pageId="9" pageNumber="66" xlink:title="Distance from the snout to the eye"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:459: namespace error : Namespace prefix xlink for title on abbrev is not defined
+rev pageId="9" pageNumber="66" xlink:title="Distance from snout to the spiracle"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:462: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="66" xlink:title="Distance from snout to the vent"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:465: namespace error : Namespace prefix xlink for title on abbrev is not defined
+e="Distance from snout tip to the point of the initiation of tail from the body"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:468: namespace error : Namespace prefix xlink for title on abbrev is not defined
+k:title="Distance from the point of initiation of tail till the tip of the tail"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:471: namespace error : Namespace prefix xlink for title on abbrev is not defined
+r="66" xlink:title="Distance measured at point of the maximum width of the body"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:474: namespace error : Namespace prefix xlink for title on abbrev is not defined
+t the point of the maximum height of the tail by laterally positing the tadpole"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:477: namespace error : Namespace prefix xlink for title on abbrev is not defined
+e point of initiation of the tail from the body where the tail width is maximum"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:480: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ measured on the tail at the point where the tail muscle reaches maximum height"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:483: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="66" xlink:title="Oral disc diameter">ODD</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:486: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="66" xlink:title="Vent tube length">VTL</abbrev>
+                                                                 ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:489: namespace error : Namespace prefix xlink for title on abbrev is not defined
+Height of the fin measured at the place of the maximum height of the dorsal fin"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0D25AB69B598C01509BB7FB867A3FBE0.xml:492: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ntral fin height measured at the place of the maximum height of the ventral fin"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:117: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EHHBI" pageId="14" pageNumber="33" xlink:title="femur">Fe</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:121: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ESHBI" pageId="14" pageNumber="33" xlink:title="tibia">Ti</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:124: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E1HBI" pageId="14" pageNumber="33" xlink:title="metatarsus">M
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:127: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ECIBI" pageId="14" pageNumber="33" xlink:title="tarsus">Ta</a
+                                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:141: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EULBI" pageId="15" pageNumber="34" xlink:title="femur">Fe</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:145: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E6LBI" pageId="15" pageNumber="34" xlink:title="tibia">Ti</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:148: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EHMBI" pageId="15" pageNumber="34" xlink:title="metatarsus">M
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:172: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EZQBI" pageId="15" pageNumber="34" xlink:title="femur">Fe</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:176: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EERBI" pageId="15" pageNumber="34" xlink:title="tibia">Ti</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:179: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EMRBI" pageId="15" pageNumber="34" xlink:title="metatarsus">M
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:182: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EURBI" pageId="15" pageNumber="34" xlink:title="tarsus">Ta</a
+                                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:193: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EFVBI" pageId="15" pageNumber="34" xlink:title="femur">Fe</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:197: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EQVBI" pageId="15" pageNumber="34" xlink:title="tibia">Ti</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//0E64A7B2CADB37234184DE7444D6B53F.xml:200: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EYVBI" pageId="15" pageNumber="34" xlink:title="metatarsus">M
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//13EF46BB455AD172FE00906C3A21FCD9.xml:376: namespace error : Namespace prefix xlink for title on abbrev is not defined
+"8" pageNumber="93" xlink:title="National Museum Prague, Prague, Czech Republic"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//13EF46BB455AD172FE00906C3A21FCD9.xml:380: namespace error : Namespace prefix xlink for title on abbrev is not defined
+"Museo de Historia Natural Universidad Nacional Mayor de San Marcos, Lima, Peru"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//13EF46BB455AD172FE00906C3A21FCD9.xml:384: namespace error : Namespace prefix xlink for title on abbrev is not defined
+"Museo de Historia Natural Universidad Nacional Mayor de San Marcos, Lima, Peru"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//13EF46BB455AD172FE00906C3A21FCD9.xml:388: namespace error : Namespace prefix xlink for title on abbrev is not defined
+"8" pageNumber="93" xlink:title="National Museum Prague, Prague, Czech Republic"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//13EF46BB455AD172FE00906C3A21FCD9.xml:392: namespace error : Namespace prefix xlink for title on abbrev is not defined
+"Museo de Historia Natural Universidad Nacional Mayor de San Marcos, Lima, Peru"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:141: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="number of shell whorls">WH</abbre
+                                                                      ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:144: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height entire shell">SH</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:147: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="width entire shell">SW</abbrev>
+                                                                  ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:150: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height body whorl">HBW</abbrev>
+                                                                 ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:153: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="width body whorl">WBW</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:156: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height aperture">AH</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:159: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="width aperture">AW</abbrev>
+                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:162: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="width entire shell">SW</abbrev>
+                                                                  ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:164: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height entire shell">SH</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:167: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height body whorl">HBW</abbrev>
+                                                                 ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:169: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height entire shell">SH</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:172: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height aperture">AH</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//29FEA6AA81CADEF9B416423F1F69891C.xml:174: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="8" xlink:title="height entire shell">SH</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:227: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ENRBG" pageId="4" pageNumber="5" xlink:title="dorsointernal">
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:230: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EVRBG" pageId="4" pageNumber="5" xlink:title="dorsoexternal">
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:233: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E4RBG" pageId="4" pageNumber="5" xlink:title="dorsolateral">D
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:237: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EISBG" pageId="4" pageNumber="5" xlink:title="subcoxa 2">Scx2
+                                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:240: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EQSBG" pageId="4" pageNumber="5" xlink:title="coxa">Cx</abbre
+                                                                      ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:243: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EYSBG" pageId="4" pageNumber="5" xlink:title="trochanter">Tr<
+                                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//3422148B8020BEA01B699BF675CADA06.xml:246: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EATBG" pageId="4" pageNumber="5" xlink:title="femur">Fe</abbr
+                                                                       ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//4977DDE921A066C358DD68C49B99549A.xml:134: namespace error : Namespace prefix xlink for title on abbrev is not defined
+E" pageId="3" pageNumber="84" xlink:title="Croatian Biological Research Society"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//4977DDE921A066C358DD68C49B99549A.xml:138: namespace error : Namespace prefix xlink for title on abbrev is not defined
+E" pageId="3" pageNumber="84" xlink:title="Croatian Biological Research Society"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:146: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EVZAE" pageId="0" pageNumber="23" xlink:title="Total Length">
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:149: namespace error : Namespace prefix xlink for title on abbrev is not defined
+abbrev id="ABBRID0E4ZAE" pageId="0" pageNumber="23" xlink:title="Cephalic Index"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:152: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EF1AE" pageId="0" pageNumber="23" xlink:title="Scape Index">S
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:155: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ID0EN1AE" pageId="0" pageNumber="23" xlink:title="Gastral Tergite 1 Width Index"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:158: namespace error : Namespace prefix xlink for title on abbrev is not defined
+D0EV1AE" pageId="0" pageNumber="23" xlink:title="Gastral Tergite 1 Length Index"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:161: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ID0E41AE" pageId="0" pageNumber="23" xlink:title="Gastral Tergite 2 Width Index"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:164: namespace error : Namespace prefix xlink for title on abbrev is not defined
+D0EF2AE" pageId="0" pageNumber="23" xlink:title="Gastral Tergite 2 Length Index"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:167: namespace error : Namespace prefix xlink for title on abbrev is not defined
+sal surface of the protibia measured from the proximal constriction to the apex"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:169: namespace error : Namespace prefix xlink for title on abbrev is not defined
+brev id="ABBRID0ER2AE" pageId="0" pageNumber="23" xlink:title="Weber’s Length"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:172: namespace error : Namespace prefix xlink for title on abbrev is not defined
+al surface of the mesotibia measured from the proximal constriction to the apex"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:174: namespace error : Namespace prefix xlink for title on abbrev is not defined
+brev id="ABBRID0E32AE" pageId="0" pageNumber="23" xlink:title="Weber’s Length"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:177: namespace error : Namespace prefix xlink for title on abbrev is not defined
+al surface of the metatibia measured from the proximal constriction to the apex"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//510A5E1E39B093DC9951EEADE67836EC.xml:179: namespace error : Namespace prefix xlink for title on abbrev is not defined
+brev id="ABBRID0EH3AE" pageId="0" pageNumber="23" xlink:title="Weber’s Length"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:274: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E2QAG" pageId="0" pageNumber="15" xlink:title="dorsointernal"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:277: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EDRAG" pageId="0" pageNumber="15" xlink:title="dorsoexternal"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:280: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ELRAG" pageId="0" pageNumber="15" xlink:title="dorsolateral">
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:283: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ETRAG" pageId="0" pageNumber="15" xlink:title="lateral">L</ab
+                                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:286: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E2RAG" pageId="0" pageNumber="15" xlink:title="subcoxa 2">Scx
+                                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:289: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EDSAG" pageId="0" pageNumber="15" xlink:title="coxa">Cx</abbr
+                                                                       ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:292: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ELSAG" pageId="0" pageNumber="15" xlink:title="trochanter">Tr
+                                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:295: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ETSAG" pageId="0" pageNumber="15" xlink:title="femur">Fe</abb
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//56D8D1752CCA634880C7C6D78D0ADA17.xml:298: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E2SAG" pageId="0" pageNumber="15" xlink:title="tibiotarsus">T
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:117: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:120: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:123: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:126: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:129: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:131: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:136: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:138: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:156: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:159: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:162: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:165: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:168: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:170: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:175: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//5E38140C20EB738E450FA6A4144DCB0B.xml:177: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="6" pageNumber="37" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6CE9D6F213F2687E9EEB3A8C70ED33EB.xml:125: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="5" pageNumber="92" xlink:title="eye length">EL</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6CE9D6F213F2687E9EEB3A8C70ED33EB.xml:127: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="5" pageNumber="92" xlink:title="post-ocular length">POL</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:172: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EVLEK" pageId="20" pageNumber="21" xlink:title="coxa">C</abbr
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:175: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E4LEK" pageId="20" pageNumber="21" xlink:title="trochanter">t
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:178: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EFMEK" pageId="20" pageNumber="21" xlink:title="prefemur">P</
+                                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:181: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ENMEK" pageId="20" pageNumber="21" xlink:title="femur">F</abb
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:184: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EVMEK" pageId="20" pageNumber="21" xlink:title="tibia">T</abb
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:187: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E4MEK" pageId="20" pageNumber="21" xlink:title="coxa">C</abbr
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:190: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EFNEK" pageId="20" pageNumber="21" xlink:title="trochanter">t
+                                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:193: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ENNEK" pageId="20" pageNumber="21" xlink:title="prefemur">P</
+                                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:196: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EVNEK" pageId="20" pageNumber="21" xlink:title="femur">F</abb
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//6D6C801FA51225BA29124C00F282DF81.xml:199: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E4NEK" pageId="20" pageNumber="21" xlink:title="tibia">T</abb
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//7857C0E0B58D3085E37D8CED229E8358.xml:265: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="7" pageNumber="136" xlink:title="standard deviation">SD</abbrev>
+                                                                    ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:139: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="number of shell whorls">WH</abbr
+                                                                       ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:142: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height entire shell">SH</abbrev>
+                                                                    ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:145: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="width entire shell">SW</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:148: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height body whorl">HBW</abbrev>
+                                                                  ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:151: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="width body whorl">WBW</abbrev>
+                                                                 ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:154: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height aperture">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:157: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="width aperture">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:160: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="width entire shell">SW</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:162: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height entire shell">SH</abbrev>
+                                                                    ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:165: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height body whorl">HBW</abbrev>
+                                                                  ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:167: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height entire shell">SH</abbrev>
+                                                                    ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:170: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height aperture">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//86445AD80237F0FDCF8097C7687C2B4B.xml:172: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="9" pageNumber="10" xlink:title="height entire shell">SH</abbrev>
+                                                                    ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//9700835EA8A18BBD58FEFC601D88A74C.xml:406: namespace error : Namespace prefix xlink for title on abbrev is not defined
+I" pageId="2" pageNumber="139" xlink:title="number of scales above lateral line"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//9700835EA8A18BBD58FEFC601D88A74C.xml:409: namespace error : Namespace prefix xlink for title on abbrev is not defined
+I" pageId="2" pageNumber="139" xlink:title="Number of scales below lateral line"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//9700835EA8A18BBD58FEFC601D88A74C.xml:412: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ABBRID0EIUCI" pageId="2" pageNumber="139" xlink:title="circum-pendicular scales"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//9700835EA8A18BBD58FEFC601D88A74C.xml:415: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ev id="ABBRID0EQUCI" pageId="2" pageNumber="139" xlink:title="total gill rakers"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B1003767A5222AE270B2CE00C16BE260.xml:146: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EMHAE" pageId="1" pageNumber="12" xlink:title="trochanter">Tr
+                                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B1003767A5222AE270B2CE00C16BE260.xml:151: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E1HAE" pageId="1" pageNumber="12" xlink:title="tibia">Ti</abb
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B1003767A5222AE270B2CE00C16BE260.xml:155: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EFIAE" pageId="1" pageNumber="12" xlink:title="trochanter">Tr
+                                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B1003767A5222AE270B2CE00C16BE260.xml:160: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ETIAE" pageId="1" pageNumber="12" xlink:title="tibia">Ti</abb
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B23FB514BD6818E1785544A52105F326.xml:96: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ory Museum of the National Autonomous University of Honduras in the Sula Valley"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B23FB514BD6818E1785544A52105F326.xml:100: namespace error : Namespace prefix xlink for title on abbrev is not defined
+D0EDGAE" pageId="4" pageNumber="83" xlink:title="Florida Natural History Museum"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B3451AECA28965BFD73DDE8C03E1DFA2.xml:150: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="4" pageNumber="83" xlink:title="trochanter">Tr</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B3451AECA28965BFD73DDE8C03E1DFA2.xml:153: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="4" pageNumber="83" xlink:title="femur">Fe</abbrev>
+                                                      ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B3451AECA28965BFD73DDE8C03E1DFA2.xml:156: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="4" pageNumber="83" xlink:title="patella">Pt</abbrev>
+                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B3451AECA28965BFD73DDE8C03E1DFA2.xml:159: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="4" pageNumber="83" xlink:title="tibia">Ti</abbrev>
+                                                      ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B3451AECA28965BFD73DDE8C03E1DFA2.xml:162: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="4" pageNumber="83" xlink:title="metatarsus">Mt</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B3451AECA28965BFD73DDE8C03E1DFA2.xml:165: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="4" pageNumber="83" xlink:title="tarsus">Ta</abbrev>
+                                                       ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B7D2A46E0BD4DED477D64B70B51E6449.xml:261: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ETUAE" pageId="0" pageNumber="35" xlink:title="femur">Fe</abb
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B7D2A46E0BD4DED477D64B70B51E6449.xml:264: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E2UAE" pageId="0" pageNumber="35" xlink:title="patella">Pa</a
+                                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B7D2A46E0BD4DED477D64B70B51E6449.xml:267: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EDVAE" pageId="0" pageNumber="35" xlink:title="tibia">Ti</abb
+                                                                        ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B7D2A46E0BD4DED477D64B70B51E6449.xml:270: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ELVAE" pageId="0" pageNumber="35" xlink:title="metatarsus">Me
+                                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//B7D2A46E0BD4DED477D64B70B51E6449.xml:273: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ETVAE" pageId="0" pageNumber="35" xlink:title="tarsus">Ta</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//BA5D593CF8A06FEC7F2E9ED23D7F66E1.xml:119: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EEWAE" pageId="2" pageNumber="141" xlink:title="femur">fe</ab
+                                                                         ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//BA5D593CF8A06FEC7F2E9ED23D7F66E1.xml:143: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EIXAE" pageId="2" pageNumber="141" xlink:title="leg ratio">LR
+                                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//C44E4F4DD98EA40F901F83319B1D7F47.xml:102: namespace error : Namespace prefix xlink for title on abbrev is not defined
+56" pageNumber="57" xlink:title="centrum length measured at the ventral midline"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//C44E4F4DD98EA40F901F83319B1D7F47.xml:106: namespace error : Namespace prefix xlink for title on abbrev is not defined
+pageNumber="57" xlink:title="width between pre- and postzygapophyseal processes"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//C44E4F4DD98EA40F901F83319B1D7F47.xml:109: namespace error : Namespace prefix xlink for title on abbrev is not defined
+" pageId="56" pageNumber="57" xlink:title="width across zygapophyseal processes"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//C44E4F4DD98EA40F901F83319B1D7F47.xml:112: namespace error : Namespace prefix xlink for title on abbrev is not defined
+geId="56" pageNumber="57" xlink:title="width across postzygapophyseal processes"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//C44E4F4DD98EA40F901F83319B1D7F47.xml:116: namespace error : Namespace prefix xlink for title on abbrev is not defined
+"57" xlink:title="height of the condyle measured from the dorsal to ventral rim"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//C44E4F4DD98EA40F901F83319B1D7F47.xml:120: namespace error : Namespace prefix xlink for title on abbrev is not defined
+id="ABBRID0E4DHM" pageId="56" pageNumber="57" xlink:title="height of the cotyle"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//CB4757573D44C89543A7029C5C76BD48.xml:184: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0ETMAI" pageId="12" pageNumber="101" xlink:title="femur">Fe</a
+                                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//CB4757573D44C89543A7029C5C76BD48.xml:188: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0E5MAI" pageId="12" pageNumber="101" xlink:title="tibia">Ti</a
+                                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//CB4757573D44C89543A7029C5C76BD48.xml:191: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EGNAI" pageId="12" pageNumber="101" xlink:title="metatarsus">
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//CB4757573D44C89543A7029C5C76BD48.xml:194: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev id="ABBRID0EONAI" pageId="12" pageNumber="101" xlink:title="tarsus">Ta</
+                                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//CE54B5491D5879FB9E8B2A5F7A9DF09A.xml:434: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ev id="ABBRID0ESWAG" pageId="8" pageNumber="421" xlink:title="Total body length"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E3FB3E58271AC8750BB3236241022683.xml:268: namespace error : Namespace prefix xlink for title on abbrev is not defined
+ev id="ABBRID0EM2AE" pageId="2" pageNumber="31" xlink:title="postantennal organ"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E3FB3E58271AC8750BB3236241022683.xml:276: namespace error : Namespace prefix xlink for title on abbrev is not defined
+brev id="ABBRID0EA3AE" pageId="2" pageNumber="31" xlink:title="thoracic segment"
+                                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:123: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="standard deviation">SD</abbrev>
+                                                                   ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:185: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="middorsal">MD</abbrev>
+                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:188: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="paradorsal">PD</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:191: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="subdorsal">SD</abbrev>
+                                                          ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:194: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="Laterodorsal">LD</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:197: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="midlateral">ML</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:200: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="sublateral">SL</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:203: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="lateral accessory">LA</abbrev>
+                                                                  ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:206: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="lateroventral">LV</abbrev>
+                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:209: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="ventrolateral">VL</abbrev>
+                                                              ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:212: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="ventromedial">VM</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E8E30BA58B4A4B231078E14E92B07754.xml:215: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="8" pageNumber="59" xlink:title="paraventral">PV</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E9250D6D7E0E8BDD9F034106A4492A4A.xml:208: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="90" xlink:title="trochanter">Tr</abbrev>
+                                                           ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E9250D6D7E0E8BDD9F034106A4492A4A.xml:211: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="90" xlink:title="femur">Fe</abbrev>
+                                                      ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E9250D6D7E0E8BDD9F034106A4492A4A.xml:214: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="90" xlink:title="genu">Ge</abbrev>
+                                                     ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E9250D6D7E0E8BDD9F034106A4492A4A.xml:217: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="90" xlink:title="Tibia">Ti</abbrev>
+                                                      ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//E9250D6D7E0E8BDD9F034106A4492A4A.xml:220: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="90" xlink:title="tarsus">Ta</abbrev>
+                                                       ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:120: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:123: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:126: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:129: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:132: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:134: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:139: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:141: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:159: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:162: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:165: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture height">AH</abbrev>
+                                                                ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:168: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:171: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell width">SW</abbrev>
+                                                            ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:173: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="shell height">SH</abbrev>
+                                                             ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:178: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture width">AW</abbrev>
+                                                               ^
+/Users/terry/working/plazi/gg_xml_20pct_sample//F72613BA453822F43F49CDCCE0564817.xml:180: namespace error : Namespace prefix xlink for title on abbrev is not defined
+<abbrev pageId="3" pageNumber="34" xlink:title="aperture height">AH</abbrev>
+                                                                ^
