@@ -35,6 +35,13 @@ return
 <species>{string($tname/@species)}</species>
 <status>{string($tname/@status)}</status>
 <rank>{string($tname/@rank)}</rank>
+
+{
+ for $aut in $tmt/ancestor::document/mods:mods//mods:name[mods:role/mods:roleTerm = 'Author']
+ 
+ return
+    <treatmentAuthor>{$aut//mods:namePart}</treatmentAuthor>
+}
 {
   for $mc in $tmt//materialsCitation
 return
