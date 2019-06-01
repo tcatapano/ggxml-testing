@@ -37,10 +37,10 @@ return
 <rank>{string($tname/@rank)}</rank>
 
 {
- for $aut in $tmt/ancestor::document/mods:mods//mods:name[mods:role/mods:roleTerm = 'Author']
+ for $aut in $tmt/ancestor::document/*:mods//*:name[*:role/*:roleTerm = 'Author']
  
  return
-    <treatmentAuthor>{$aut//mods:namePart}</treatmentAuthor>
+    <treatmentAuthor>{$aut//*:namePart}</treatmentAuthor>
 }
 {
   for $mc in $tmt//materialsCitation
