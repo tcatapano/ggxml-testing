@@ -27,7 +27,7 @@ return
 <page>{$pages}</page>
 <doi>{$doi}</doi>
 <zenodo-id>{$zenodo}</zenodo-id>
-<pubdate>{if ($pubdate1) then $pubdate1/text() else if(matches($pubdate2, '-12-31')) then 'x' else $pubdate2}</pubdate>
+<pubdate>{if ($pubdate1) then $pubdate1/text() else if(matches($pubdate2, '-12-31')) then '' else $pubdate2}</pubdate>
 <article-title>{$tmt/ancestor::document/*:mods/*:titleInfo/*:title/text()}</article-title>
 <journal-title>{$tmt/ancestor::document/*:mods/*:relatedItem[@type = 'host']/*:titleInfo/*:title/text()}</journal-title>
 <journal-volume>{$tmt/ancestor::document/*:mods/*:relatedItem[@type = 'host']/*:part/*:detail[@type = 'volume']/*:number/text()}</journal-volume>
