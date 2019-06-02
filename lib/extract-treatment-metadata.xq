@@ -7,7 +7,7 @@ let $treatmentId := string($tmt/ancestor::document/@docId)
 
 let $tname :=  ($tmt//subSubSection[@type = 'nomenclature'][not(preceding::subSubSection[@type = 'nomenclature'])]//taxonomicName)[1]
 
-let $pages := concat($tmt/@pageNumber, if($tmt/@lastPageNumber) then concat('-', $tmt/@lastPageNumber))
+let $pages := concat($tmt/@pageNumber, if($tmt/@lastPageNumber) then concat('-', $tmt/@lastPageNumber) else())
 
 let $doi := string($tmt/ancestor::document/@ID-DOI)
 
@@ -15,7 +15,7 @@ let $zenodo := string($tmt/ancestor::document/@ID-Zenodo-Dep)
 
 let $pubdate1 := $tmt/ancestor::document//*:detail[@type='pubDate']/*:number
 
-let $pubdate2 := concat($tmt/ancestor::document//*:relatedItem[@type = 'host']/*:part/*:date, '-12-31')
+let $pubdate2 := concat($tmt/ancestor::document//*:relatedItem[@type = 'host']/*:part/*:date/text(), '-12-31')
 
 (: where $tmt/ancestor::document[count(descendant::treatment) = 1] :)
 
@@ -27,7 +27,7 @@ return
 <page>{$pages}</page>
 <doi>{$doi}</doi>
 <zenodo-id>{$zenodo}</zenodo-id>
-<pubdate>{if ($pubdate1) then $pubdate1/text() else $pubdate2/text()}</pubdate>
+<pubdate>{if ($pubdate1) then $pubdate1/text() else $pubdate2}</pubdate>
 <article-title>{$tmt/ancestor::document/*:mods/*:titleInfo/*:title/text()}</article-title>
 <journal-title>{$tmt/ancestor::document/*:mods/*:relatedItem[@type = 'host']/*:titleInfo/*:title/text()}</journal-title>
 <journal-volume>{$tmt/ancestor::document/*:mods/*:relatedItem[@type = 'host']/*:part/*:detail[@type = 'volume']/*:number/text()}</journal-volume>
