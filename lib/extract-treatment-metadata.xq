@@ -7,7 +7,7 @@ let $treatmentId := string($tmt/ancestor::document/@docId)
 
 let $tname :=  ($tmt//subSubSection[@type = 'nomenclature'][not(preceding::subSubSection[@type = 'nomenclature'])]//taxonomicName)[1]
 
-let $pages := concat($tmt/@pageNumber, '-', $tmt/@lastPageNumber)
+let $pages := concat($tmt/@pageNumber, if($tmt/@lastPageNumber) then concat('-', $tmt/@lastPageNumber))
 
 let $doi := string($tmt/ancestor::document/@ID-DOI)
 
