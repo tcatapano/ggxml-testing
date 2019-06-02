@@ -8,7 +8,7 @@
     </sch:pattern>
     <sch:pattern name="illegal nesting">
         <sch:rule context="treatment">
-            <sch:report test="descendant::treatment">ERROR a <sch:name/> element should not contain another <sch:name/> element </sch:report>
+            <sch:assert test="descendant::treatment">ERROR a <sch:name/> element should not contain another <sch:name/> element </sch:assert>
         </sch:rule>
         <sch:rule context="materialsCitation">
             <sch:report test="descendant::materialsCitation">ERROR a <sch:name/> element should not contain another <sch:name/> element </sch:report>
