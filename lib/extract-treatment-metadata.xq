@@ -13,7 +13,9 @@ let $doi := string($tmt/ancestor::document/@ID-DOI)
 
 let $zenodo := string($tmt/ancestor::document/@ID-Zenodo-Dep)
 
-let $pubdate := $tmt/ancestor::document//*:detail[@type='pubDate']/*:number
+let $pubdate1 := $tmt/ancestor::document//*:detail[@type='pubDate']/*:number
+
+let $pubdate2 := concat($tmt/ancestor::document//*:relatedItem[@type = 'host']/*:part/*:date, '-12-31')
 
 (: where $tmt/ancestor::document[count(descendant::treatment) = 1] :)
 
@@ -25,7 +27,7 @@ return
 <page>{$pages}</page>
 <doi>{$doi}</doi>
 <zenodo-id>{$zenodo}</zenodo-id>
-<pubdate>{$pubdate/text()}</pubdate>
+<pubdate>{if ($pubdate1) then $pubdate1/text() else $pubdate2}</pubdate>
 <article-title>{$tmt/ancestor::document/*:mods/*:titleInfo/*:title/text()}</article-title>
 <journal-title>{$tmt/ancestor::document/*:mods/*:relatedItem[@type = 'host']/*:titleInfo/*:title/text()}</journal-title>
 <journal-volume>{$tmt/ancestor::document/*:mods/*:relatedItem[@type = 'host']/*:part/*:detail[@type = 'volume']/*:number/text()}</journal-volume>
