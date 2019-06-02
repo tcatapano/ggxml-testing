@@ -42,7 +42,7 @@ return
  for $aut in $tmt/ancestor::document/*:mods//*:name[*:role/*:roleTerm = 'Author']
  
  return
-    <treatmentAuthor>{$aut//*:namePart}</treatmentAuthor>
+    <treatmentAuthor>{normalize-space($aut//*:namePart/text())}</treatmentAuthor>
 }
 {
   for $mc in $tmt//materialsCitation
