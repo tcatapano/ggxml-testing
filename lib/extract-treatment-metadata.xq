@@ -1,3 +1,6 @@
+<dataset>
+
+{
 for $tmt in //document//treatment[ancestor::document[count(//treatment) = 1]]
 
 let $treatmentId := string($tmt/ancestor::document/@docId)
@@ -82,3 +85,5 @@ return
   </treatmentCitation>
 }
 </treatment_data>
+}
+</dataset>
