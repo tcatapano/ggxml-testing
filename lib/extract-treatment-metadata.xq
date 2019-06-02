@@ -1,4 +1,4 @@
-for $tmt in //document//treatment
+for $tmt in //document//treatment[ancestor::document[count(//treatment) = 1]]
 
 let $treatmentId := string($tmt/ancestor::document/@docId)
 
@@ -12,7 +12,7 @@ let $zenodo := string($tmt/ancestor::document/@ID-Zenodo-Dep)
 
 let $pubdate := $tmt/ancestor::document//*:detail[@type='pubDate']/*:number
 
-where $tmt/ancestor::document[count(descendant::treatment) = 1]
+(: where $tmt/ancestor::document[count(descendant::treatment) = 1] :)
 
 return
 
