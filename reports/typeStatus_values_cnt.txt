@@ -1,0 +1,234 @@
+  37770 holotype
+  33611 Other material
+  29991 paratype
+   4906 Paratype
+   2221 Holotype
+   2108 other material
+   2091 syntype
+   2058 lectotype
+    927 allotype
+    738 paralectotype
+    662 Paratypes
+    645 Syntype
+    332 neotype
+    146 paratypes
+    138 Syntypes
+    122 Lectotype
+    108 Paratypus
+    104 Type
+    102 Holotype, Paratypes
+     91 Paralectotype
+     90 Holotypus
+     83 isotype
+     81 type
+     78 syntypes
+     53 PARATYPES
+     40 Isotype
+     30 holotype, paratypes
+     25 Neotype
+     24 HOLOTYPE
+     21 PARATYPE
+     19 typus
+     14 Typus
+     12 type locality
+     12 Allolectotype
+     11 holo-
+     10 isotypes
+     10 holotype destroyed
+     10 Allotype
+      8 Paratypes, Paratopotypes
+      8 Paralectotypus
+      7 holotype fragment and photo
+      6 iso-
+      6 allolectotype
+      6 Holotypus, Paratypus
+      6 2 paratypes
+      5 paralectotypes
+      5 holotype photo
+      5 Syntypes, Lectotype
+      5 Syntype, Lectotype
+      5 SYNTYPES
+      5 Lectotypus
+      5 Holotype, Paratype
+      4 isolectotype
+      4 holotype, paratypes  (partly)
+      4 cotype
+      4 Topotypes
+      4 Syntypus
+      4 Paratopotypes
+      4 Paralectotypes
+      4 Neotypus
+      3 paratypi
+      3 Syntypes and / or Day specimens
+      3 Syntype, LECTOTYPE
+      3 Lectoypus
+      3 Holotype, paratypes
+      3 2 syntypes
+      2 ноlоtуре
+      2 types
+      2 three paratype
+      2 syntypes, lectotype, paralectotype
+      2 syntype, lectotype
+      2 syntype and / or Day specimen [Nangra buchanani Day]
+      2 syntpye
+      2 lectotype photo
+      2 lectotype fragment and photo
+      2 isolectotypes
+      2 holotypus
+      2 holotype, 16 paratypes
+      2 holotype and paratypes
+      2 holotype and 7 paratypes
+      2 holotype and 16 paratypes
+      2 epitype
+      2 Lectotype from the syntypic series
+      2 LECTOTYPE
+      2 Holotypus, Paratypen
+      2 Holotype ?
+      2 4 paratypes
+      2 3 paratypes
+      2 1 of 4 syntypes
+      2 1 lectotype and 3 paralectotypes
+      2 1 holotype and 2 paratypes
+      1 type strain
+      1 topotypical
+      1 topotypes
+      1 topotype
+      1 syntypes and / or Day specimens
+      1 syntypes [MNHN specimens]
+      1 syntype of Exostoma oschanini (BMNH 1888.11.24.1)
+      1 syntype and / or Day specimen
+      1 syntype ? [BMNH 1863.12.11.154]
+      1 syntype (MHNG 683.22)
+      1 syntype (BMNH 1923.3.13.1)
+      1 syntype (BMNH 1907.11.26.4)
+      1 syntype (BMNH 1892.10.7.26), holotype of Glyptosternum kuekenthali (SMF 752)
+      1 possible syntypes
+      1 possible syntype
+      1 possible isolectotype
+      1 possible holotype
+      1 paratypes (from ZVC-P 789)
+      1 paratypes (USNM 345151)
+      1 paratypes (USNM 109819)
+      1 paratype of G. coheni
+      1 paratipos
+      1 p a r a t y p e s
+      1 non-type specimens
+      1 neotype (UFRJ 6218)
+      1 neotype (MZUSP 56256)
+      1 neo-allotype
+      1 lectotype, syntype
+      1 lectotype, paralectotype
+      1 lectotype of Cynolebias spinifer Ahl
+      1 lectotype of Cynolebias holmbergi Berg
+      1 lectotype of C. holmbergi, paralectotype
+      1 lectotype and 4 paralectotypes
+      1 lectotype (of Cynolebias gibberosus Berg)
+      1 labelled “ cotype ”
+      1 isotypus
+      1 isotype photo
+      1 isoneotype
+      1 isolecto-
+      1 isoepitypes
+      1 invalid syntypes
+      1 hоlоtуре
+      1 holótipo
+      1 holotypes (male, female)
+      1 holotype?
+      1 holotype, paratypes (except for UFRJ 5114)
+      1 holotype, paratypes (except for UFRJ 3922)
+      1 holotype, paratypes (except for UFRJ 280)
+      1 holotype, 5 paratypes
+      1 holotype, 4 paratypes
+      1 holotype, 13 paratypes
+      1 holotype'
+      1 holotype of P. bokermanni Travassos
+      1 holotype and paratypes (execpt for ZFMK 13259-60)
+      1 holotype and 9 paratypes (MZUSP 41375)
+      1 holotype and 8 paratypes
+      1 holotype and 5 paratypes (except for UFRJ 3808)
+      1 holotype and 5 paratypes
+      1 holotype and 46 paratypes
+      1 holotype and 4 paratypes
+      1 holotype and 2 paratypes
+      1 holotype and 19 paratypes
+      1 holotype and 17 paratypes
+      1 holotype and 14 paratypes
+      1 holotype and 13 paratypes
+      1 holotype and 12 paratypes
+      1 holotype and 11 paratypes
+      1 holotype and 10 paratypes
+      1 holotype and 1 paratype
+      1 holotype ?
+      1 holotype / paratype
+      1 holotype (of Cynolebias reicherti)
+      1 holotype (of Cynolebias maculatus Steindachner)
+      1 holotype (of Cynolebias irregularis Ahl)
+      1 holotype (MZUSP 40131), paratypes and non-types
+      1 holotype (MHNG 665.55)
+      1 holotype (BMNH 1860.3.19.756), holotype of Glyptothorax dekkanense (BMNH 1860.3.19.757)
+      1 holotipo
+      1 cotypus
+      1 allotypes
+      1 Typus-Serie
+      1 Topotypus
+      1 Syntypes, Lectotype, Paralectotypes
+      1 Syntypes or possible syntypes
+      1 Syntypes [of Exostoma labrax Gratzianov]
+      1 Syntypes ?
+      1 Syntypes (of Hara saharsai)
+      1 Syntype ?
+      1 SYNTYPE, cotypes
+      1 Possible types and / or Day specimens, syntype [AMS B.7509]
+      1 Paratypi
+      1 Paralectotypes, Syntypes
+      1 Non-type specimen
+      1 Neotype (of Pimelodus asperus McClelland)
+      1 Lectotypus, Paralectotypus
+      1 Lectotype, Paralectotype
+      1 Lectotype (from the syntypic series)
+      1 Holotypus, Paratypoide
+      1 Holotypus, Allotypus
+      1 Holotypus und ein Paratyp
+      1 Holotype, Allotype, Paratypes
+      1 Holotype, Allotype, Paratype
+      1 Holotype and 7 Paratypes
+      1 Holotype and 5 Paratypes
+      1 Holotype and 32 Paratypes
+      1 Holotype and 28 Paratypes
+      1 Holotype and 2 Paratypes
+      1 Holotype [of Glyptosternum chaudhurii Hora]
+      1 Holotype [of Exostoma gracile Gratzianov]
+      1 Holotype [KIZ 748621], Paratypes
+      1 Holotype [KIZ 737159], Paratypes
+      1 Holotype (of Hara elongata Day)
+      1 Holotype &amp; Allotype
+      1 HOLOTYPE, PARATYPES
+      1 BAH 20010700.6
+      1 BAH 20010000.16
+      1 9 paratypes
+      1 5 paratypes
+      1 4 syntypes
+      1 4 paratype
+      1 4 paratopotypes and 2 paratypes
+      1 3 Paratypes, Paratopotypes
+      1 3 Paralectotypes
+      1 20600 - 414
+      1 2 paratypes (UFRJ 130)
+      1 2 of 4 syntypes
+      1 2 of 3 syntypes
+      1 2 Paralectotypes from the syntypic series
+      1 17 Paralectotypes
+      1 13 paratypes
+      1 11 paratypes
+      1 10 paratypes (UFRJ 4881)
+      1 10 paratypes (UFRJ 4668)
+      1 10 paratypes
+      1 1 of 8 syntypes
+      1 1 of 3 syntypes
+      1 1 of 2 syntypes
+      1 1 lectotype and 17 paralectotypes
+      1 1 lectotype and 13 paralectotypes
+      1 1 holotype and 3 paratype
+      1 1 holotype and 19 paratypes
+      1 1 holotype and 1 paratype
+      1 (para)lectotype
